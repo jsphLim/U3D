@@ -8,6 +8,7 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "暗黑之光.CSharp.Editor", "暗黑之光.CSharp.Editor.csproj", "{3FED855A-DE7A-6870-2BEF-6D77D3AC0D29}"
 EndProject
 Global
+
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
